@@ -8,3 +8,6 @@ __pycache__/
 
 #Token do Bot
 .env
+
+#logs de execução
+discordBot.log
