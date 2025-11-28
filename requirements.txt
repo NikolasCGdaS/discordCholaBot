@@ -1,2 +1,4 @@
 discord.py
 python-dotenv
+#pip install yt-dlp youtube-search-python
+#pip install pynacl #necessário para o voice do discord.py
