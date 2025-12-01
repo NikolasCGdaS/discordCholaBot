@@ -7,7 +7,13 @@ __pycache__/
 *.pyc 
 
 #Token do Bot
+<<<<<<< HEAD
+.env
+=======
 .env
 
 #logs de execução
 discordBot.log
+
+#logs de conexão de chamadas
+channelMovementLog.json
