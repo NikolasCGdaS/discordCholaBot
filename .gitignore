@@ -14,4 +14,10 @@ __pycache__/
 
 #logs de execução
 discordBot.log
+<<<<<<< HEAD
 >>>>>>> ba0f5733eeb4798e70f7ed3979ef1d4fd18d17a6
+=======
+
+#logs de conexão de chamadas
+channelMovementLog.json
+>>>>>>> a17bb87cd98ccfe0725622ed89470b83f4a4067f

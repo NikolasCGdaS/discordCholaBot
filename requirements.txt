@@ -1,5 +1,12 @@
 discord.py
 python-dotenv
+<<<<<<< HEAD
 #pip install yt-dlp youtube-search-python
 #pip install pynacl #necessário para o voice do discord.py
 #instale o ffmpeg e adicione ao PATH do sistema operacional
+=======
+gspread
+oauth2client
+yt-dlp
+pynacl
+>>>>>>> a17bb87cd98ccfe0725622ed89470b83f4a4067f
